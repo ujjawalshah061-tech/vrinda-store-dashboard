@@ -16,9 +16,7 @@ An end-to-end retail analytics solution developed entirely in **Microsoft Excel*
 This project transforms raw, unorganized e-commerce transaction logs into a boardroom-ready interactive data asset. By leveraging advanced data cleaning and visualization techniques, this dashboard tracks end-to-end retail metrics, regional delivery status, and consumer behavior segments to protect profit margins and increase sales efficiency.
 
 ### 🖼️ Interactive Executive Workspace Dashboard
-*[<img width="960" height="344" alt="Screenshot 2026-06-23 165044" src="https://github.com/user-attachments/assets/220217a7-805a-4c13-ab6e-5d359670c8d5" />
-]*
-![Executive Dashboard]([Yaha dashboard wali image ka link daalo ya drag-drop karo])
+<img width="960" height="344" alt="Interactive Executive Workspace Dashboard" src="https://github.com/user-attachments/assets/220217a7-805a-4c13-ab6e-5d359670c8d5" />
 
 ---
 
@@ -45,39 +43,31 @@ A sequential, structured 7-step pipeline was built to process raw files into int
 
 ### Step 1: Raw Dataset Auditing
 *Inspected structural data integrity, handled missing entries, and ran text standardization metrics before running aggregations.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164314" src="https://github.com/user-attachments/assets/1e85be80-cdd6-4971-9b67-32ed4a4a265e" />
-]*
-![Raw Dataset]([Yaha dataset wali image ka link daalo])
+<img width="960" height="600" alt="Raw Dataset Auditing" src="https://github.com/user-attachments/assets/1e85be80-cdd6-4971-9b67-32ed4a4a265e" />
 
 ### Step 2: Order vs. Sales Metrics
 *Calculated the cost baseline against actual sale price logs to analyze total revenue variations.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164829" src="https://github.com/user-attachments/assets/9bd4d446-eb73-4092-bf02-b3f7151edd00" />]*
-![Cost vs Sales]([Yaha cost vs sale wali image ka link daalo])
+<img width="960" height="600" alt="Order vs Sales Metrics" src="https://github.com/user-attachments/assets/9bd4d446-eb73-4092-bf02-b3f7151edd00" />
 
 ### Step 3: Sales by Demographics (Men vs. Women)
 *Engineered gender-based groupings to separate distribution percentages across purchasing lines.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164819" src="https://github.com/user-attachments/assets/31765808-0ac3-481a-b587-f08562c3cc1f" />]*
-![Men vs Women Sales]([Yaha men vs women image ka link daalo])
+<img width="960" height="600" alt="Sales by Demographics" src="https://github.com/user-attachments/assets/31765808-0ac3-481a-b587-f08562c3cc1f" />
 
 ### Step 4: Channel Performance Analysis
 *Mapped order distribution channels to find platform dependencies.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164807" src="https://github.com/user-attachments/assets/4c38a4b7-4e30-450c-8773-59719470d5a8" />]*
-![Channel Distribution]([Yaha order channels image ka link daalo])
+<img width="960" height="600" alt="Channel Performance Analysis" src="https://github.com/user-attachments/assets/4c38a4b7-4e30-450c-8773-59719470d5a8" />
 
 ### Step 5: Regional Territory Matrix (Top 5 States)
 *Aggregated performance fields to isolate and sort the top revenue-driving states.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164757" src="https://github.com/user-attachments/assets/6c12cff8-ffb3-4a7e-81e7-d7ac9f3f7191" />]*
-![Top 5 States]([Yaha top 5 state image ka link daalo])
+<img width="960" height="600" alt="Regional Territory Matrix" src="https://github.com/user-attachments/assets/6c12cff8-ffb3-4a7e-81e7-d7ac9f3f7191" />
 
 ### Step 6: Order Age vs. Gender Demographics
 *Cross-referenced user age brackets with gender buckets to plot buyer volume concentrations.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164623" src="https://github.com/user-attachments/assets/8b33b42a-fe5b-4922-a90c-7a19ad9d5611" />]*
-![Age vs Gender Analysis]([Yaha order age vs gender image ka link daalo])
+<img width="960" height="600" alt="Order Age vs Gender Demographics" src="https://github.com/user-attachments/assets/8b33b42a-fe5b-4922-a90c-7a19ad9d5611" />
 
 ### Step 7: Order Status Operational Health
 *Categorized logistics updates into Delivered, Returned, and Cancelled units to track backend fulfillment efficiency.*
-*[<img width="960" height="600" alt="Screenshot 2026-06-23 164241" src="https://github.com/user-attachments/assets/ca7fdc8a-8070-4785-9f2f-7c0e2da529fc" />]*
-![Order Status]([Yaha order status image ka link daalo])
+<img width="960" height="600" alt="Order Status Operational Health" src="https://github.com/user-attachments/assets/ca7fdc8a-8070-4785-9f2f-7c0e2da529fc" />
 
 ---
 
