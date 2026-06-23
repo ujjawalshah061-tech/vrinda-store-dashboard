@@ -1,8 +1,8 @@
-# Vrinda Store Annual Sales Operations Dashboard 📊🛒
+# Vrinda Store Annual Sales Operations Dashboard 
 
 An end-to-end retail analytics solution developed entirely in **Microsoft Excel** to evaluate annual transaction logs, uncover consumer demographics, analyze channel performance, and deliver data-driven growth strategies for stakeholders.
 
-📌 **Table of Contents**
+ **Table of Contents**
 * [Project Overview](#-project-overview)
 * [Key Business Insights](#-key-business-insights)
 * [Strategic Action Plan (ROI Optimization)](#-strategic-action-plan-roi-optimization)
@@ -12,15 +12,15 @@ An end-to-end retail analytics solution developed entirely in **Microsoft Excel*
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 This project transforms raw, unorganized e-commerce transaction logs into a boardroom-ready interactive data asset. By leveraging advanced data cleaning and visualization techniques, this dashboard tracks end-to-end retail metrics, regional delivery status, and consumer behavior segments to protect profit margins and increase sales efficiency.
 
-### 🖼️ Interactive Executive Workspace Dashboard
+###  Interactive Executive Workspace Dashboard
 <img width="960" height="344" alt="Interactive Executive Workspace Dashboard" src="https://github.com/user-attachments/assets/220217a7-805a-4c13-ab6e-5d359670c8d5" />
 
 ---
 
-## 📈 Key Business Insights Discovered
+##  Key Business Insights Discovered
 
 * **Customer Demographics:** Identified that women customers account for **~65% of total sales**, establishing them as the primary target consumer segment.
 * **Age Group Dominance:** Analyzed age brackets to discover the **Adult age group (30-49 years)** contributes the highest volume (**~50%**) to overall store revenue.
@@ -29,7 +29,7 @@ This project transforms raw, unorganized e-commerce transaction logs into a boar
 
 ---
 
-## 🎯 Strategic Action Plan (ROI Optimization)
+##  Strategic Action Plan (ROI Optimization)
 Based on the empirical data discovered through this dashboard, I formulated a precision-targeted promotional strategy to maximize business return on investment (ROI):
 1. **Targeted Demographics:** Deploy custom coupon codes and targeted digital advertising campaigns focused strictly on **Adult Women (30-49 years)**.
 2. **Geographic Focus:** Heavy up marketing spend inside the top 3 high-volume states (**Maharashtra, Karnataka, and Uttar Pradesh**).
@@ -37,7 +37,7 @@ Based on the empirical data discovered through this dashboard, I formulated a pr
 
 ---
 
-## 🔀 Data Pipeline & Project Architecture
+##  Data Pipeline & Project Architecture
 
 A sequential, structured 7-step pipeline was built to process raw files into interactive insights. Below is the step-by-step technical architecture:
 
@@ -55,7 +55,7 @@ A sequential, structured 7-step pipeline was built to process raw files into int
 
 ### Step 4: Channel Performance Analysis
 *Mapped order distribution channels to find platform dependencies.*
-<img width="960" height="600" alt="Channel Performance Analysis" src="https://github.com/user-attachments/assets/4c38a4b7-4e30-450c-8773-59719470d5a8" />
+<img width="960" height="600" alt="Channel Performance Analysis" src="https://github.com/user-attachments/assets/ca7fdc8a-8070-4785-9f2f-7c0e2da529fc" />
 
 ### Step 5: Regional Territory Matrix (Top 5 States)
 *Aggregated performance fields to isolate and sort the top revenue-driving states.*
@@ -67,11 +67,11 @@ A sequential, structured 7-step pipeline was built to process raw files into int
 
 ### Step 7: Order Status Operational Health
 *Categorized logistics updates into Delivered, Returned, and Cancelled units to track backend fulfillment efficiency.*
-<img width="960" height="600" alt="Order Status Operational Health" src="https://github.com/user-attachments/assets/ca7fdc8a-8070-4785-9f2f-7c0e2da529fc" />
+<img width="960" height="600" alt="Order Status Operational Health" src="https://github.com/user-attachments/assets/4c38a4b7-4e30-450c-8773-59719470d5a8" />
 
 ---
 
-## 🛠️ Tools & Tech Used
+##  Tools & Tech Used
 * **Microsoft Excel:** Core engine for complete data transformation and dashboard layouts.
 * **Pivot Tables & Pivot Charts:** Utilized for high-speed calculation execution and dynamic indexing.
 * **Interactive Slicers:** Integrated multi-dimensional filtering arrays for interactive timeline tracking.
@@ -79,8 +79,8 @@ A sequential, structured 7-step pipeline was built to process raw files into int
 
 ---
 
-## 👤 Author
+##  Author
 * **Name:** Ujjawal Kumar Sah
 * **Role:** Final-Year BCA Student | Aspiring Data Analyst
-* **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
-* **GitHub:** [Follow GitHub Profile](https://github.com)
+* **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ujjawal-kumar-sah-a472b43ab/)
+* **GitHub:** [Follow GitHub Profile](https://github.com/ujjawalshah061-tech)
